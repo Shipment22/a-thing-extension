@@ -1,0 +1,8 @@
+{
+  "name": "A Thing",
+  "description": "Add a thing (e.g. a task) to your top bar",
+  "uuid": "aThing@shipment22.github.io",
+  "shell-version": [
+    "43"
+  ]
+}
